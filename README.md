@@ -8,7 +8,3 @@
 -🦉I'm a member of OISP Volunteer Club(OVC) in 👨‍💻Developer department of the Digital Solution team
 
 -🌜I'm also a Project Moon sleeper agent🌛
-
-🌸
-
-☝
