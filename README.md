@@ -1,5 +1,6 @@
 
-                 <img width="189" height="190" alt="logo đại học bk tphcm" src="https://github.com/user-attachments/assets/8aa822e1-973d-44fc-a64f-6c831d5433f0" />
+![Uploading bait used to be belivable....png…]()
+
 
 
 -👨‍🎓I'm a freshman at Ho Chi Minh City University of Technology(Ly Thuong Kiet Campus)
@@ -10,4 +11,4 @@
 
 -🌜I'm also a Project Moon sleeper agent🌛
 
-![Uploading bait used to be belivable....png…]()
+
