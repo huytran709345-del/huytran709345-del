@@ -1,7 +1,5 @@
 
-![Uploading bait used to be belivable....png…]()
-
-
+<img width="189" height="190" alt="logo đại học bk tphcm" src="https://github.com/user-attachments/assets/b1b72d40-6e1f-41d9-82a0-3468a33802cd" />
 
 -👨‍🎓I'm a freshman at Ho Chi Minh City University of Technology(Ly Thuong Kiet Campus)
 
